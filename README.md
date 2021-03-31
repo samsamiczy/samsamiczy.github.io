@@ -1,6 +1,6 @@
-# samsamiczy.github.io
+# Mikolaj Kacki
 
-# Bayesian Mixture Models for probabilistic clustering
+# Bayesian Mixture Models for probabilistic clustering (undergrad project)
 
  This is a part of my undegraduate dissertation submitted at University of Southampton. 
  
