@@ -1,6 +1,6 @@
 # Mikolaj Kacki
 
-# Bayesian Mixture Models for probabilistic clustering (undergrad project)
+# Bayesian Mixture Models for probabilistic clustering of breast tumors 
 
  This is a part of my undegraduate dissertation submitted at University of Southampton. 
  
@@ -103,5 +103,3 @@ image processing and biomedical visualization(1993), vol. 1905, International So
 [2] Dua, D., and Graff, C. UCI Machine Learning Repository.http://archive.ics.uci.edu/ml, 2017.
 
 [3] Based, L. M. M. I. M., Komárek, C. A. A., and Komárek, M. A. Package ‘mixak’
-
-### Thanks for your attention :)
